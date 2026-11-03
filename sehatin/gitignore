@@ -1,0 +1,16 @@
+
+# Environment dan konfigurasi rahasia
+.env
+.env.*
+!.env.example
+
+# Log
+*.log
+
+# File sistem
+.DS_Store
+Thumbs.db
+
+# File backup
+*.bak
+*.backup
